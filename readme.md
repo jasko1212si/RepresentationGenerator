@@ -1,6 +1,6 @@
 # Readme
 
-The input algebra is an ordered convoluted monoid, if it is an ordered convoluted monoid and if it is an ordered convoluted monoid that obeys the pseudo-triangle law (i.e. a group). It then generates the representation.
+The input algebra is an ordered convoluted monoid, if it is an ordered convoluted monoid and if it is an ordered convoluted monoid that obeys the pseudo-triangle law (i.e. a group) or an orderered convoluted monoids of total relations. It then generates the representation.
 
 The input it takes is a ```json``` file of that specifies the:
 
