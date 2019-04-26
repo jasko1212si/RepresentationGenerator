@@ -1,4 +1,3 @@
-Markdown Live Preview
 #Readme
 
 The input algebra is an ordered convoluted monoid, if it is an ordered convoluted monoid and if it is an ordered convoluted monoid that obeys the pseudo-triangle law (i.e. a group). It then generates the representation.
@@ -11,7 +10,7 @@ The input it takes is a ```json``` file of that specifies the:
 
 * ```comp```: the cayley table of the composition operation, i.e. the composition of the elements ```i``` and ```j``` is stored at ```comp[i][j]```
 
-* ```ord``` the list of ordered pairs ```[a,b]``` such that a <= b, which will form the ordering predicate after transitive closure and the inclusion of the reflexive pairs
+* ```ord``` the list of ordered pairs ```[a,b]``` such that <i>a &#x2264; b</i>, which will form the ordering predicate after transitive closure and the inclusion of the reflexive pairs
 
 
 An example is shown below
