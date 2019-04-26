@@ -26,3 +26,5 @@ An example is shown below
   "ord":[[0,1]]
 }
 ```
+
+To run use ```$ python3 RepresentOCM.py inputFile.json```
