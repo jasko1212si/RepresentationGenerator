@@ -1,4 +1,4 @@
-#Readme
+# Readme
 
 The input algebra is an ordered convoluted monoid, if it is an ordered convoluted monoid and if it is an ordered convoluted monoid that obeys the pseudo-triangle law (i.e. a group). It then generates the representation.
 
